@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOSMPL</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="header_of_notification">SOS SMS</string>
+    <string name="detail_of_notificaiton">Tab this when you are safe</string>
+    <string name="notification_bar_text">Sms sent</string>
+</resources>

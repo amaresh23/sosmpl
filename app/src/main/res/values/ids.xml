@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ImageView01">false</item>
+    <item type="id" name="TextView02">false</item>
+    <item type="id" name="img_background">false</item>
+    <item type="id" name="img_got_it">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="btn_yes">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="btnTheUserIsSafeNow">false</item>
+    <item type="id" name="button4">false</item>
+    <item type="id" name="TextView01">false</item>
+    <item type="id" name="etFirstNumber">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="editText1">false</item>
+    <item type="id" name="tvWarningEmptyTextingNumber">false</item>
+    <item type="id" name="etSecondTextingNumber">false</item>
+    <item type="id" name="etThirdTextingNumber">false</item>
+    <item type="id" name="etCallingNumber">false</item>
+    <item type="id" name="tvWarningEmptyCallingNumber">false</item>
+    <item type="id" name="etDurationToWaitBeforeResend">false</item>
+    <item type="id" name="etEmergencyNumber">false</item>
+    <item type="id" name="tvWarningEmptyEmergencyNumber">false</item>
+    <item type="id" name="etMessage">false</item>
+    <item type="id" name="saveNumbers">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
